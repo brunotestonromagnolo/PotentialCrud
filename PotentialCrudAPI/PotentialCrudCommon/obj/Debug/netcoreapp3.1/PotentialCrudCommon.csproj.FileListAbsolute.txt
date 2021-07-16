@@ -1,0 +1,9 @@
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\bin\Debug\netcoreapp3.1\PotentialCrudCommon.deps.json
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\bin\Debug\netcoreapp3.1\PotentialCrudCommon.dll
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\bin\Debug\netcoreapp3.1\PotentialCrudCommon.pdb
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\obj\Debug\netcoreapp3.1\PotentialCrudCommon.AssemblyInfoInputs.cache
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\obj\Debug\netcoreapp3.1\PotentialCrudCommon.AssemblyInfo.cs
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\obj\Debug\netcoreapp3.1\PotentialCrudCommon.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\obj\Debug\netcoreapp3.1\PotentialCrudCommon.dll
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\obj\Debug\netcoreapp3.1\PotentialCrudCommon.pdb
+C:\Users\Bruno Romagnolo\Documents\Docker-teste\PotentialCrudAPI\PotentialCrudCommon\obj\Debug\netcoreapp3.1\PotentialCrudCommon.csproj.AssemblyReference.cache

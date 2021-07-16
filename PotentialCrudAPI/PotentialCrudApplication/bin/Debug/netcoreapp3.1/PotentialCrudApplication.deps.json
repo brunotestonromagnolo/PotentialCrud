@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PotentialCrudApplication/1.0.0": {
+        "dependencies": {
+          "PotentialCrudDomain.Core": "1.0.0"
+        },
+        "runtime": {
+          "PotentialCrudApplication.dll": {}
+        }
+      },
+      "PotentialCrudCommon/1.0.0": {
+        "runtime": {
+          "PotentialCrudCommon.dll": {}
+        }
+      },
+      "PotentialCrudDomain/1.0.0": {
+        "dependencies": {
+          "PotentialCrudCommon": "1.0.0"
+        },
+        "runtime": {
+          "PotentialCrudDomain.dll": {}
+        }
+      },
+      "PotentialCrudDomain.Core/1.0.0": {
+        "dependencies": {
+          "PotentialCrudDomain": "1.0.0"
+        },
+        "runtime": {
+          "PotentialCrudDomain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PotentialCrudApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PotentialCrudCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PotentialCrudDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PotentialCrudDomain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
